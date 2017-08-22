@@ -1,3 +1,2 @@
-# resume
-CV.
-
+# My resume
+As a single page application 
